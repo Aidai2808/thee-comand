@@ -1,0 +1,15 @@
+.header{
+    width: 1200px;
+    height: 250px;
+    margin: 0 auto;
+    border: 2px solid rgb(17, 17, 37);
+    /* background-color: rgb(18, 18, 47); 
+    color: rgb(251, 251, 251); */
+}    
+
+
+.header ul{
+   display: flex;
+   gap: 20px;
+   list-style: none;
+}
